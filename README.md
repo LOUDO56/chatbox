@@ -2,4 +2,4 @@
 Chatbox in HTML and CSS (not interactive)
 
 
-link
+link https://loudo56.github.io/chatbox/
